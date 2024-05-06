@@ -12,5 +12,5 @@
 /dataSources/
 /dataSources.local.xml
 #CSharp Build Files
-/bin/
-/obj/
+Avalonia.MusicStore/bin/
+Avalonia.MusicStore/obj/
